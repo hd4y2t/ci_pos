@@ -18,7 +18,7 @@
                 <div class="col-md-12">
                     <nav class="navbar hnav navbar-expand-lg">
                         <div class="container-fluid">
-                            <a class="navbar-brand" href="#">Navbar</a>
+                            <a class="navbar-brand" href="#">CI POS</a>
                             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="navbar-toggler-icon"></span>
                             </button>
