@@ -27,10 +27,10 @@
                             </div>
 
                             <div class="card-body">
-                                <form method="POST">
+                                <form method="POST" action="<?= base_url('auth/register'); ?>">
                                     <div class="form-group">
-                                        <label for="nama_lengkap">Nama Lengkap</label>
-                                        <input id="nama_lengkap" type="text" class="form-control" name="nama_lengkap" autofocus>
+                                        <label for="nama">Nama Lengkap</label>
+                                        <input id="nama" type="text" class="form-control" name="nama" autofocus>
                                     </div>
                                     <div class="form-group">
                                         <label for="email">Email</label>
